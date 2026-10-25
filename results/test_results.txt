@@ -1,0 +1,16 @@
+test_column_constant_equilibrium (test_model.Invariants.test_column_constant_equilibrium) ... ok
+test_coupled_water_budget_and_energy (test_model.Invariants.test_coupled_water_budget_and_energy) ... ok
+test_discrete_leaf_optimum_against_independent_scalar_search (test_model.Invariants.test_discrete_leaf_optimum_against_independent_scalar_search) ... ok
+test_energy_against_bracketed_scalar_roots (test_model.Invariants.test_energy_against_bracketed_scalar_roots) ... ok
+test_metrics_use_actual_interval (test_model.Invariants.test_metrics_use_actual_interval) ... ok
+test_per_step_storage_ledger (test_model.Invariants.test_per_step_storage_ledger) ... ok
+test_radiation_accounting (test_model.Invariants.test_radiation_accounting) ... ok
+test_retention_roundtrip (test_model.Invariants.test_retention_roundtrip) ... ok
+test_transport_against_independent_ode_solver (test_model.Invariants.test_transport_against_independent_ode_solver) ... ok
+test_vulnerability_traits (test_model.Invariants.test_vulnerability_traits) ... ok
+test_zero_transpiration_control (test_model.Invariants.test_zero_transpiration_control) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 1.510s
+
+OK
